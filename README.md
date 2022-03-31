@@ -11,7 +11,7 @@ This is a preprint version (Not peer reviewed yet)
 | Folder    | Description |
 |-----------|------------------------------------------------------|
 | data      | Raw datasets |
-| src       | R scripts to reproduce the results in Miura et al. (2021) |
+| src       | R scripts to reproduce the results in Miura et al. (2022) |
 | figures   | Raw figure files in the manuscript |
 
 ## Authors
