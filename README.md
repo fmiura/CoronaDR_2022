@@ -5,7 +5,7 @@ Supporting materials for Miura F, Klinkenberg D, Wallinga J (2022). Dose-respons
 This is a preprint version (Not peer reviewed yet)
 
 ## Licence
-
+[MIT](https://github.com/fmiura/CoronaDR_2022/blob/main/LICENSE)
 
 ## About this repository
 | Folder    | Description |
