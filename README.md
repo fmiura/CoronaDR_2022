@@ -15,6 +15,6 @@ This is a preprint version (Not peer reviewed yet)
 | figures   | Raw figure files in the manuscript |
 
 ## Authors
-[Fuminari Miura](https://github.com/akira-endo), 
+[Fuminari Miura](https://github.com/fmiura), 
 [Don Klinkenberg](https://github.com/donkeyshot), 
 Jacco Wallinga
