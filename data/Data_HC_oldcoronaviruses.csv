@@ -1,0 +1,11 @@
+Dose,Total ,Infected,Ill,Unit,Bloodtype,Virus,Aggregation,Vaccine,Reference,Description
+100,24,21,21,TCID50,NA,229E,NA,No,[Bende 1989],Infection status was judged based on clinical symptoms 
+31.6227766,6,4,4,TCID50,NA,229E,NA,No,[Bradburne 1967],"Infection status was judged based on clinical symptoms, but the original study checked virus excretions as well"
+5.011872336,6,1,1,TCID50,NA,229E,NA,No,[Bradburne 1967],"Infection status was judged based on clinical symptoms, but the original study checked virus excretions as well"
+3.981071706,5,2,2,TCID50,NA,229E,NA,No,[Bradburne 1967],"Infection status was judged based on clinical symptoms, but the original study checked virus excretions as well"
+15.84893192,9,6,5,TCID50,NA,229E,NA,No,[Bradburne 1967],"Infection status was judged based on clinical symptoms, but the original study checked virus excretions as well"
+100,15,10,8,TCID50,NA,229E,NA,No,[Callow 1990],"Infection status was judged by virus shedding, and illness status was checked after that"
+17.7827941,22,7,4,TCID50,NA,229E,NA,No,[Reed 1984],"Infection status was judged by virus shdeeing, and illness status was checked after that. Passage history is also shown"
+31.6227766,24,12,7,TCID50,NA,229E,NA,No,[Reed 1984],"Infection status was judged by virus shdeeing, and illness status was checked after that. Passage history is also shown"
+15848.93192,12,7,6,TCID50,NA,229E,NA,No,[Reed 1984],"Infection status was judged by virus shdeeing, and illness status was checked after that. Passage history is also shown"
+100,55,50,34,TCID50,NA,229E,NA,No,[Tyrell 1993],"Infection status was judged by antibody test, and illness status was checked after that. Passage history is also shownRhinovirus and Respiratory syncytial virus (RSV) were also inoculated. "
