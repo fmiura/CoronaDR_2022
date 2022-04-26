@@ -1,5 +1,5 @@
 # Dose-response models of endemic coronaviruses and SARS-CoV-2
-Supporting materials for Miura F, Klinkenberg D, Wallinga J (2022). Dose-response modelling of endemic coronavirus and SARS-CoV-2: human challenge trials reveal the individual variation in susceptibility. _medRxiv_ (doi: to be updated)
+Supporting materials for Miura F, Klinkenberg D, Wallinga J (2022). Dose-response modelling of endemic coronavirus and SARS-CoV-2: human challenge trials reveal the individual variation in susceptibility. _medRxiv_ (doi: https://doi.org/10.1101/2022.04.07.22273549)
 
 ## Disclaimer 
 This is a preprint version (Not peer reviewed yet)
