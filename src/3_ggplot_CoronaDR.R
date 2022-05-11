@@ -87,7 +87,9 @@ fig2 <- ggplot()+
   geom_point(data=data_plot, 
              aes(x=LogDose,y=Prob, size=Total), color=RColorBrewer::brewer.pal(11, "RdBu")[2], alpha=0.6)+
   geom_linerange(data = data_plot,
-                 aes(x=LogDose, ymin=Prob_low, ymax=Prob_upp), color=RColorBrewer::brewer.pal(11, "RdBu")[2], alpha=0.6)
+                 aes(x=LogDose, ymin=Prob_low, ymax=Prob_upp), color=RColorBrewer::brewer.pal(11, "RdBu")[2], alpha=0.6)+
+  geom_line(data = animal_DR_delta_data, 
+            aes(x=log10(x_plot), y=prob), color=c("darkgrey"), linetype="dashed")
 
 ((fig1A/fig1C/fig1D) | fig2) + 
   plot_layout(widths = c(1, 2))+
